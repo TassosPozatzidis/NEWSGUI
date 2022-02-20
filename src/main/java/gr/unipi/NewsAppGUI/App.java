@@ -44,15 +44,6 @@ public class App extends Application{
         mainStage.setScene(mainScene);
         mainStage.show();
     }
-
-
-
-    
-    public static void main(String[] args) {
-        launch();
-    }
-
-
     	
 
 }
